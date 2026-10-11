@@ -1,0 +1,29 @@
+{
+ "T0_BKJD": 2788.97577362989,
+ "eT0": 0.002365154668041214,
+ "P": 7.497809465134939,
+ "eP": 0.0008570390281859019,
+ "sectors": {
+  "91": {
+   "npts": 5697,
+   "cadence_min": 3.3331869872199604,
+   "aperture_npix": 4,
+   "rms_per_cadence_ppm": 629861.6236093424,
+   "rms_30min_ppm": 209953.87453644746,
+   "n_epochs_from_K2": 423,
+   "Tpred_mid_BKJD": 5960.5491773819695,
+   "Tpred_mid_BTJD": 3793.5491773819695,
+   "sigma_Tpred_h": 8.700845377374517,
+   "transits_covered_nominal": 1,
+   "n_in_nominal": 23,
+   "expected_snr": 0.004630054013186775,
+   "nominal_box_depth_ppm": 200874.91536011215,
+   "nominal_box_err_ppm": 143548.35488973893,
+   "search_max_snr": 1.7446410202204674,
+   "search_trials": 1599,
+   "tic_contamination_note": "TIC contratio applies to TESS pixels (21 arcsec)",
+   "VERDICT": "unusable: TESScut S91 cutout (camera 1 CCD 3) starts at column 2113, beyond the last science column; all pixel values are 0. Star falls off the science area."
+  }
+ },
+ "tess_point_0.9.5": "predicts only sector 115, camera 1 CCD 3, col 2049.3 row 1711.0 (on silicon, near edge); S115 not yet observed as of 2026-10-11 (guess from sector schedule)"
+}

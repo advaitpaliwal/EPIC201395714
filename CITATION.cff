@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "EPIC 201395714.01: an Earth-sized planet candidate on a 7.5-day orbit around a nearby M dwarf"
+message: "If you use this candidate or data, please cite it as below."
+authors:
+  - family-names: Paliwal
+    given-names: Advait
+    email: advaitpaliwal@gmail.com
+date-released: 2026-10-11
+license: CC-BY-4.0

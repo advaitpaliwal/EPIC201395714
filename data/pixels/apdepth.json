@@ -1,0 +1,45 @@
+{
+ "brightest1": "Arclength cannot be computed because there is no centroid motion. Make sure that the aperture of the TPF at least two pixels.",
+ "brightest2": {
+  "npix": 2,
+  "depth_ppm": 454.3665973920641,
+  "err_ppm": 526.9971166996831,
+  "rms_ppm": 1957.1281485805744,
+  "flux_frac": 0.6792345643043518
+ },
+ "core4": {
+  "npix": 4,
+  "depth_ppm": 417.7473672933862,
+  "err_ppm": 135.0363979192757,
+  "rms_ppm": 450.6560586854513,
+  "flux_frac": 0.8787404894828796
+ },
+ "core6": {
+  "npix": 6,
+  "depth_ppm": 716.2679998529153,
+  "err_ppm": 85.08723832205276,
+  "rms_ppm": 301.16445038257103,
+  "flux_frac": 0.9203569889068604
+ },
+ "thresh3": {
+  "npix": 18,
+  "depth_ppm": 767.3427330682214,
+  "err_ppm": 71.42635247130987,
+  "rms_ppm": 269.9685737922024,
+  "flux_frac": 0.9942780137062073
+ },
+ "thresh1": {
+  "npix": 25,
+  "depth_ppm": 793.5415826522129,
+  "err_ppm": 82.16077529168487,
+  "rms_ppm": 308.4166804346983,
+  "flux_frac": 1.0
+ },
+ "halo_thresh1_minus_core4": {
+  "npix": 21,
+  "depth_ppm": 264.85112009622117,
+  "err_ppm": 1061.0306666409813,
+  "rms_ppm": 3712.676209737341,
+  "flux_frac": 0.12125956267118454
+ }
+}

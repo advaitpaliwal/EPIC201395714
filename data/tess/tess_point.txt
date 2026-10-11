@@ -1,0 +1,2 @@
+# TIC     |   RA      |   Dec     | EclipticLong | EclipticLat | Sector | Camera | Ccd | ColPix | RowPix | EdgeWarn
+349446806 | 183.901610 |  -1.026492 | 183.984187 |   0.608802 | 115 | 1 | 3 | 2049.288236 | 1710.966069 | 0

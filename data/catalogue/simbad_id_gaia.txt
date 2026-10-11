@@ -1,0 +1,43 @@
+C.D.S.  -  SIMBAD4 rel 1.8  -  2026.10.11CEST22:24:17
+
+Gaia DR3 3697661388078573952
+----------------------------
+
+Object UCAC4 445-054690  ---  PM*  ---  OID=@23372858   (@@-1,255)  ---  coobox=15364
+
+Coordinates(ICRS,ep=J2000,eq=2000): 12 15 36.3865776988  -01 01 35.372644035 (Opt ) A [0.0172 0.0124 90] 2020yCat.1350....0G
+Coordinates(FK4,ep=B1950,eq=1950): 12 13 02.8724713441  -00 44 55.217178759
+Coordinates(Gal,ep=J2000,eq=2000): 284.4691288711936  +60.5544276190634
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: -91.923 2.305 [0.027 0.019 90] A 2020yCat.1350....0G
+Parallax: 15.5854 [0.0208] A 2020yCat.1350....0G
+Radial Velocity: -6.26 [2.45] C 2022yCat.1355....0G
+Redshift: -0.000021 [0.000008] C 2022yCat.1355....0G
+cz: -6.26 [2.45] C 2022yCat.1355....0G
+Flux B : 16.615 [0.11] D 2012yCat.1322....0Z
+Flux G : 14.045595 [0.002794] C 2022yCat.1355....0G
+Flux R : 14.816 [0.07] E 2012yCat.1322....0Z
+Flux J : 11.369 [0.023] C 2003yCat.2246....0C
+Flux H : 10.776 [0.026] C 2003yCat.2246....0C
+Flux K : 10.589 [0.024] C 2003yCat.2246....0C
+Flux g : 15.871 [0.05] D 2012yCat.1322....0Z
+Flux r : 14.551 [0.04] D 2012yCat.1322....0Z
+Flux i : 13.370 [0.03] D 2012yCat.1322....0Z
+Spectral type: ~ ~ ~
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~ (~)  ~ ~
+
+Identifiers (5):
+   GALAH 170130004601170                2MASS J12153638-0101354              Gaia DR3 3697661388078573952       
+   UCAC4 445-054690                     WISE J121536.33-010135.2                                                
+
+Bibcodes  1850-2026 () (2):
+  2021A&A...649A...6G  2021MNRAS.506..150B                        
+
+Measures (distance:1  PLX:1  PM:1  velocities:1  ):
+distance:1PLX:1PM:1velocities:1
+
+Notes (0) :
+
+================================================================================
+

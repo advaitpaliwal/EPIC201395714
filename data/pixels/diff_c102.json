@@ -1,0 +1,48 @@
+{
+ "tpf": "201395714/lc/mastDownload/K2/ktwo201395714-c10_lc/ktwo201395714-c102_lpd-targ.fits.gz",
+ "n_in_cadences": 14,
+ "n_fake": 60,
+ "target_pix_colrow": [
+  4.432242384238378,
+  2.7096461253212705
+ ],
+ "oot_centroid": [
+  4.449439968524542,
+  2.7556184425645247
+ ],
+ "diff_centroid": [
+  3.8527514459173253,
+  2.5829626927446343
+ ],
+ "diff_centroid_err": [
+  0.37060714584304394,
+  0.2662011740983832
+ ],
+ "offset_pix": [
+  -0.5966885226072169,
+  -0.1726557498198904
+ ],
+ "offset_arcsec": 2.472240684488483,
+ "offset_sigma": 1.735761022181514,
+ "offset_from_gaia_pix": [
+  -0.5794909383210523,
+  -0.12668343257663617
+ ],
+ "peak_diff_pixel": [
+  4,
+  0
+ ],
+ "brightest_oot_pixel": [
+  5,
+  3
+ ],
+ "depth_ap_ppm": 498.14925296232104,
+ "depth_core4_ppm": 868.9062087796628,
+ "depth_ring_ppm": -1913.500134833157,
+ "depth_big_ppm": 497.72270722314715,
+ "depth_ap_err_ppm": 439.71160888671875,
+ "depth_core4_err_ppm": 3690.136962890625,
+ "depth_ring_err_ppm": 23266.2890625,
+ "max_pixel_snr": 1.7584154605865479,
+ "snr_summed_ap": 0.08685840666294098
+}
